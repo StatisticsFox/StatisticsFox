@@ -16,8 +16,7 @@
 - Python
 - R
 - SQL
-- JAVA
-- AWS
+- airflow
 
 ### lICENSE
 - 사회조사분석사 2급
