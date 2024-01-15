@@ -3,7 +3,10 @@
 - Kyonggi univ 19's 🏫 (2019.03 ~ 2025.02)
   - Applied Statistics 
 
- 
+### B.O.A.Z (Data engineering study club) (2023.01.13 ~ )
+  - Academic community about Big-data
+  - Data engineering
+    
 ### D.N.A 🐘 (Data And Analysis study club)(2022.03 ~ 2023.07)
   - Academic community about Big-data
   - Analysis
