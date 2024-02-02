@@ -28,7 +28,7 @@
 - SQLD
 
 ### Blog
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=DEStudy)](https://statistics-fox.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=DEStudy)](http://www.statisticsfox.com)
 
 ### Git Summary
 ___
