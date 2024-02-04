@@ -19,18 +19,18 @@ I'm interested in Data Engineering, Devops, Cloud, Statistics.
   - 경상남도 공공데이터 활용 아이디어 경진대회 최우수 (2023.07)
   - 교내 통계활용 자료분석 경진대회 최우수(2023.12)
 
-### <center> 💻 Currently Learning </center>
+## <center> 💻 Currently Learning </center>
   - AWS(EC2, API Gateway, S3)
   - Python
   - SQL
   - airflow
 
-### <center> 🪪 Licenses & Certifications </center>
-- Survey Analyst, Junior
-- ADsP
-- SQLD
+## <center> 🪪 Licenses & Certifications </center>
+  - Survey Analyst, Junior
+  - ADsP
+  - SQLD
 
-### Git Summary
+## <center> Git Summary </center>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StatisticsFox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatisticsFox&layout=compact&hide=html,css,c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
