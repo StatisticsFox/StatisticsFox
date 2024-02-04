@@ -27,7 +27,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/StatisticsFox)](https://github.com/StatisticsFox) 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-ff5a4a?style=flat-square&logo=Tistory&logoColor=white&link=https://www.statisticsfox.com/)](https://www.statisticsfox.com/)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/c5145109c4d540179f0393632723f577?pvs=4)](https://www.notion.so/c5145109c4d540179f0393632723f577?pvs=4) 
-<a href="https://www.instagram.com/Jilililililkh"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/jililililihk?igsh=MWZ6cTV2bm0wcXI2cw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ### Git Summary
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StatisticsFox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StatisticsFox&layout=compact&hide=html,css,c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
