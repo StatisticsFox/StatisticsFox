@@ -12,8 +12,8 @@ I'm interested in Data Engineering, Devops, Cloud, Statistics.
 ## <center>✨ Experiences  </center>
   - B.O.A.Z 🐘 (Data engineering study club) (2024.01 ~ now)
   - 글또 9기 (A writing group of developers) (2023.11 ~ now)
-  - D.N.A (Data And Analysis study club)(2022.03 ~ 2023.07)
   - Fast campus corporate education DX team (2023.06 ~ 2024.02)
+  - D.N.A (Data And Analysis study club)(2022.03 ~ 2023.07)
 
 ## <center> 😎 AWARDS 😎 </center>
   - 경상남도 공공데이터 활용 아이디어 경진대회 최우수 (2023.07)
