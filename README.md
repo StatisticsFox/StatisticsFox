@@ -1,4 +1,4 @@
-## <center>💡 More About me 💡</center>
+## <center>💡 About me 💡</center>
 ```
 Hi 👋 my name is Jee Hyuk Choi.<br> 
 I'm interested in Data Engineering, Devops, Cloud, Statistics.
