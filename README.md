@@ -1,5 +1,4 @@
-
-### B.O.A.Z (Data engineering study club) (2024.01.13 ~ now)
+### B.O.A.Z (Data engineering study club) (2024.01 ~ now)
   - Academic community about Big-data
   - Data engineering
     
