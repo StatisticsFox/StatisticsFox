@@ -13,7 +13,7 @@ I'm interested in Data Engineering, Devops, Cloud, Statistics.
   - B.O.A.Z 🐘 (Data engineering study club) (2024.01 ~ now)
   - 글또 9기 (A writing group of developers) (2023.11 ~ now)
   - Fast campus corporate education DX team (2023.06 ~ 2024.02)
-    - Responsible for data analysis training for Samsung Electronics employees
+    - In charge of data analysis training for Samsung Electronics employees
   - D.N.A (Data And Analysis study club)(2022.03 ~ 2023.07)
 
 ## <center> 😎 AWARDS 😎 </center>
