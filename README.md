@@ -6,7 +6,7 @@ I'm interested in Data Engineering, Devops, Cloud, Statistics.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jeehyuk-choi/)](https://www.linkedin.com/in/jeehyuk-choi/)
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/StatisticsFox)](https://github.com/StatisticsFox) 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-ff5a4a?style=flat-square&logo=Tistory&logoColor=white&link=https://www.statisticsfox.com/)](https://www.statisticsfox.com/)
-[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://jet-terrier-1d2.notion.site/c5145109c4d540179f0393632723f577?pvs=4)](https://jet-terrier-1d2.notion.site/c5145109c4d540179f0393632723f577?pvs=4) 
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://statisticsfox.notion.site/c5145109c4d540179f0393632723f577?pvs=4)](https://statisticsfox.notion.site/c5145109c4d540179f0393632723f577?pvs=4) 
 <a href="https://www.instagram.com/jililililihk?igsh=MWZ6cTV2bm0wcXI2cw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ## <center>✨ Experiences  </center>
