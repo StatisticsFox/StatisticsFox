@@ -1,7 +1,7 @@
 ## <center>💡 About me 💡</center>
 ```
 Hi 👋 my name is Jee Hyuk Choi.
-I'm interested in Data Engineering, Devops, Cloud, Statistics.
+I'm interested in Data Engineering, Cloud, Statistics.
 ```
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jeehyuk-choi/)](https://www.linkedin.com/in/jeehyuk-choi/)
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/StatisticsFox)](https://github.com/StatisticsFox) 
