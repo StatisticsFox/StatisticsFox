@@ -3,6 +3,9 @@
 Hi 👋 my name is Jee Hyuk Choi.
 I'm interested in Data Engineering, Cloud, Statistics.
 ```
+```
+스스로를 잘 아는 사람이 행복한 개발을 할 수 있다고 생각합니다.😄
+```
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jeehyuk-choi/)](https://www.linkedin.com/in/jeehyuk-choi/)
 [![Github Badge](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/StatisticsFox)](https://github.com/StatisticsFox) 
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-ff5a4a?style=flat-square&logo=Tistory&logoColor=white&link=https://www.statisticsfox.com/)](https://www.statisticsfox.com/)
