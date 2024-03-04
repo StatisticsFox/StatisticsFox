@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Choi%20Jee%20Hyuk&textBg=false&fontColor=FFFFFF&animation=fadeIn&descAlign=25&fontAlign=30)
 ## <center>💡 About me 💡</center>
 ```
 Hi 👋 my name is Jee Hyuk Choi.
