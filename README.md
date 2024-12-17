@@ -14,8 +14,9 @@ I'm interested in Data Engineering, Cloud, Statistics.
 <a href="https://www.instagram.com/jililililihk?igsh=MWZ6cTV2bm0wcXI2cw%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ## <center>✨ Experiences  </center>
+  - 글또 10기 (A writing group of developers) (2024.11 ~ now)
   - B.O.A.Z 🐘 (Data engineering study club) (2024.01 ~ now)
-  - 글또 9기 (A writing group of developers) (2023.11 ~ now)
+  - 글또 9기 (A writing group of developers) (2023.11 ~ 2024.06)
   - Fast campus corporate education DX team (2023.06 ~ 2024.02)
     - In charge of data analysis training for Samsung Electronics employees
   - D.N.A (Data And Analysis study club)(2022.03 ~ 2023.07)
@@ -25,7 +26,7 @@ I'm interested in Data Engineering, Cloud, Statistics.
   - 교내 통계활용 자료분석 경진대회 최우수(2023.12)
 
 ## <center> 💻 Currently Learning </center>
-  - AWS(EC2, API Gateway, S3)
+  - AWS(EC2, API Gateway, S3, Dynamo DB)
   - Python
   - SQL
   - airflow
